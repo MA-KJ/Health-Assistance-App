@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Health Assistant App</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="your_height_in_cm">Enter Height in Cm</string>
+    <string name="your_weight_in_kg">Enter Weight in kg</string>
+    <string name="your_result">Your Results</string>
+    <string name="calculate">Calculate</string>
+    <string name="s_o_s" />
+    <string name="assistant_app">Health Assistant App</string>
+</resources>
